@@ -1,7 +1,8 @@
-# Feifeiyu 组件仓库  
+#  组件仓库  
 
 ## js 组件 ##
-#### loading 组件 [Yloading](https://github.com/liuxuanhai/JSComponents/tree/master/loading-h5)
+#### loading 组件 [loading-h5](https://github.com/liuxuanhai/JSComponents/tree/master/loading-h5)
+#### ylazyload 组件 [Yloading](https://github.com/liuxuanhai/JSComponents/tree/master/ylazyload)
 #### H5 页面 confirm 组件 [Yh5confirm](https://github.com/liuxuanhai/JSComponents/tree/master/yh5confirm)
 #### H5 页面分页组件 [Yscroll](https://github.com/liuxuanhai/JSComponents/tree/master/yscroll)
 #### 轮播组件(h5) [Yslider](https://github.com/liuxuanhai/JSComponents/tree/master/yslidero)
